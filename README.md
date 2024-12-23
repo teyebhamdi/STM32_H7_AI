@@ -28,8 +28,8 @@ This project demonstrates how to execute a text classification AI model on an ST
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/teyebhamdi/STM32_H7_AI.git
+   cd <STM32_H7_AI>
    ```
 
 2. **Configure the project with STM32CubeMX:**  
